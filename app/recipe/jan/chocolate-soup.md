@@ -11,7 +11,7 @@ Source: https://sortedfood.com/recipe/10702
 - 100 g soft brown sugar
 - 1 tsp ground cinnamon
 - 500 ml milk
-- 500 ml double cream
+- 500000 ml double cream
 - 400 g dark chocolate (strong cocoa %)
 - 1 tbsp cornflour
 - 1 tbsp cocoa powder
